@@ -1,0 +1,1349 @@
+File Rename Tracking - Converted to kebab-case
+==================================================
+
+Total files processed: 275
+Files renamed: 268
+Files unchanged: 7
+
+RENAMED FILES:
+------------------------------
+  1. AlignmentPolylineLayerSelection_Dialog.png
+     -> alignment-polyline-layer-selection-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\AlignmentPolylineLayerSelection_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\alignment-polyline-layer-selection-dialog.png
+
+  2. AssemblyLabel_ModelSpace.png
+     -> assembly-label-model-space.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\AssemblyLabel_ModelSpace.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\assembly-label-model-space.png
+
+  3. AssemblyLabel_SettingsDialog.png
+     -> assembly-label-settings-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\AssemblyLabel_SettingsDialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\assembly-label-settings-dialog.png
+
+  4. AssemblyRenameStandard_Reuse.png
+     -> assembly-rename-standard-reuse.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\AssemblyRenameStandard_Reuse.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\assembly-rename-standard-reuse.png
+
+  5. AssemblyRenameStandard_StationFormat.png
+     -> assembly-rename-standard-station-format.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\AssemblyRenameStandard_StationFormat.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\assembly-rename-standard-station-format.png
+
+  6. C3dObjectLayersCheck_Dialog.png
+     -> c3d-object-layers-check-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\C3dObjectLayersCheck_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\c3d-object-layers-check-dialog.png
+
+  7. C3dToolkitAbout.png
+     -> c3d-toolkit-about.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\C3dToolkitAbout.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\c3d-toolkit-about.png
+
+  8. CogoPointRotationByObjectSettings.png
+     -> cogo-point-rotation-by-object-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\CogoPointRotationByObjectSettings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\cogo-point-rotation-by-object-settings.png
+
+  9. CorridorClone_SurfacesDialog.png
+     -> corridor-clone-surfaces-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\CorridorClone_SurfacesDialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\corridor-clone-surfaces-dialog.png
+
+ 10. CorridorExtractPolylines_Dialog.png
+     -> corridor-extract-polylines-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\CorridorExtractPolylines_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\corridor-extract-polylines-dialog.png
+
+ 11. CorridorFlowArrows_ModelSpace.png
+     -> corridor-flow-arrows-model-space.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\CorridorFlowArrows_ModelSpace.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\corridor-flow-arrows-model-space.png
+
+ 12. CorridorFlowArrows_SettingsDialog.png
+     -> corridor-flow-arrows-settings-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\CorridorFlowArrows_SettingsDialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\corridor-flow-arrows-settings-dialog.png
+
+ 13. CorridorFlowArrows_Symbols.png
+     -> corridor-flow-arrows-symbols.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\CorridorFlowArrows_Symbols.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\corridor-flow-arrows-symbols.png
+
+ 14. CrosshairGrade_Window.png
+     -> crosshair-grade-window.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\CrosshairGrade_Window.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\crosshair-grade-window.png
+
+ 15. DistanceCivil_Settings.png
+     -> distance-civil-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\DistanceCivil_Settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\distance-civil-settings.png
+
+ 16. DrawingSettings_Transformation.png
+     -> drawing-settings-transformation.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\DrawingSettings_Transformation.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\drawing-settings-transformation.png
+
+ 17. DrawingSettings_UnitsAndZone.png
+     -> drawing-settings-units-and-zone.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\DrawingSettings_UnitsAndZone.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\drawing-settings-units-and-zone.png
+
+ 18. GradeLabelExplorer_Palette.png
+     -> grade-label-explorer-palette.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\GradeLabelExplorer_Palette.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\grade-label-explorer-palette.png
+
+ 19. GradeLabelExplorer_Settings.png
+     -> grade-label-explorer-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\GradeLabelExplorer_Settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\grade-label-explorer-settings.png
+
+ 20. GradeLabelSettings.png
+     -> grade-label-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\GradeLabelSettings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\grade-label-settings.png
+
+ 21. MapCSLibraryCsrsGridFiles.png
+     -> map-cslibrary-csrs-grid-files.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\MapCSLibraryCsrsGridFiles.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\map-cslibrary-csrs-grid-files.png
+
+ 22. PipeFlip_Direction.png
+     -> pipe-flip-direction.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\PipeFlip_Direction.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\pipe-flip-direction.png
+
+ 23. PipeGetElevationFromPlan_MLeader_Basic.png
+     -> pipe-get-elevation-from-plan-mleader-basic.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\PipeGetElevationFromPlan_MLeader_Basic.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\pipe-get-elevation-from-plan-mleader-basic.png
+
+ 24. PipeGetElevationFromPlan_MLeader_Extra.png
+     -> pipe-get-elevation-from-plan-mleader-extra.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\PipeGetElevationFromPlan_MLeader_Extra.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\pipe-get-elevation-from-plan-mleader-extra.png
+
+ 25. PipeGetElevationFromPlan_Settings.png
+     -> pipe-get-elevation-from-plan-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\PipeGetElevationFromPlan_Settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\pipe-get-elevation-from-plan-settings.png
+
+ 26. PipeGetElevationFromPlan_Tooltip.png
+     -> pipe-get-elevation-from-plan-tooltip.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\PipeGetElevationFromPlan_Tooltip.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\pipe-get-elevation-from-plan-tooltip.png
+
+ 27. PipeNetworkExportToSHP_PipePropertiesExample.png
+     -> pipe-network-export-to-shp-pipe-properties-example.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\PipeNetworkExportToSHP_PipePropertiesExample.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\pipe-network-export-to-shp-pipe-properties-example.png
+
+ 28. PipeNetworkExportToSHP_StructurePropertiesExample.png
+     -> pipe-network-export-to-shp-structure-properties-example.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\PipeNetworkExportToSHP_StructurePropertiesExample.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\pipe-network-export-to-shp-structure-properties-example.png
+
+ 29. PipesExportTo3dPolys_ObjectDataExample.png
+     -> pipes-export-to3d-polys-object-data-example.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\PipesExportTo3dPolys_ObjectDataExample.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\pipes-export-to3d-polys-object-data-example.png
+
+ 30. PolylineLayerSelection_Dialog.png
+     -> polyline-layer-selection-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\PolylineLayerSelection_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\polyline-layer-selection-dialog.png
+
+ 31. ProfileCalculatePvi_Dialog.png
+     -> profile-calculate-pvi-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ProfileCalculatePvi_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\profile-calculate-pvi-dialog.png
+
+ 32. ProfileCalculatePvi_Error.png
+     -> profile-calculate-pvi-error.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ProfileCalculatePvi_Error.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\profile-calculate-pvi-error.png
+
+ 33. ProfileCalculatePvi_Settings.png
+     -> profile-calculate-pvi-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ProfileCalculatePvi_Settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\profile-calculate-pvi-settings.png
+
+ 34. ProfileLabelOffset_Components.png
+     -> profile-label-offset-components.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ProfileLabelOffset_Components.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\profile-label-offset-components.png
+
+ 35. ProfilePolylineLayerSelection_Dialog.png
+     -> profile-polyline-layer-selection-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ProfilePolylineLayerSelection_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\profile-polyline-layer-selection-dialog.png
+
+ 36. SetCoordSys_Codes.png
+     -> set-coord-sys-codes.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\SetCoordSys_Codes.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\set-coord-sys-codes.png
+
+ 37. SubassemblyMatchParams_PropertiesPalette.png
+     -> subassembly-match-params-properties-palette.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\SubassemblyMatchParams_PropertiesPalette.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\subassembly-match-params-properties-palette.png
+
+ 38. SubassemblyMatchParams_Settings.png
+     -> subassembly-match-params-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\SubassemblyMatchParams_Settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\subassembly-match-params-settings.png
+
+ 39. SubassemblyMatchParams_SettingsCommandLine.png
+     -> subassembly-match-params-settings-command-line.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\SubassemblyMatchParams_SettingsCommandLine.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\subassembly-match-params-settings-command-line.png
+
+ 40. SubassemblyMatchParams_SettingsDyn.png
+     -> subassembly-match-params-settings-dyn.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\SubassemblyMatchParams_SettingsDyn.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\subassembly-match-params-settings-dyn.png
+
+ 41. SurfaceBorderExtract_Dialog.png
+     -> surface-border-extract-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\SurfaceBorderExtract_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\surface-border-extract-dialog.png
+
+ 42. UI_Alignments.png
+     -> ui-alignments.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_Alignments.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-alignments.png
+
+ 43. UI_C3dToolkit.png
+     -> ui-c3d-toolkit.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_C3dToolkit.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-c3d-toolkit.png
+
+ 44. UI_CogoPoints.png
+     -> ui-cogo-points.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_CogoPoints.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-cogo-points.png
+
+ 45. UI_Coords.png
+     -> ui-coords.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_Coords.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-coords.png
+
+ 46. UI_Corridors.png
+     -> ui-corridors.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_Corridors.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-corridors.png
+
+ 47. UI_Inquiry.png
+     -> ui-inquiry.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_Inquiry.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-inquiry.png
+
+ 48. UI_Labels.png
+     -> ui-labels.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_Labels.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-labels.png
+
+ 49. UI_Manage.png
+     -> ui-manage.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_Manage.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-manage.png
+
+ 50. UI_Miscellaneous.png
+     -> ui-miscellaneous.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_Miscellaneous.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-miscellaneous.png
+
+ 51. UI_PipeNetworks.png
+     -> ui-pipe-networks.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_PipeNetworks.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-pipe-networks.png
+
+ 52. UI_Profiles.png
+     -> ui-profiles.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_Profiles.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-profiles.png
+
+ 53. UI_ProfileViews.png
+     -> ui-profile-views.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_ProfileViews.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-profile-views.png
+
+ 54. UI_SectionViews.png
+     -> ui-section-views.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_SectionViews.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-section-views.png
+
+ 55. UI_Surfaces.png
+     -> ui-surfaces.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_Surfaces.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-surfaces.png
+
+ 56. UI_Survey.png
+     -> ui-survey.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_Survey.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-survey.png
+
+ 57. UI_Transparent.png
+     -> ui-transparent.png
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\UI_Transparent.png
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\img\ui-transparent.png
+
+ 58. AddCustomProperties.png
+     -> add-custom-properties.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\AddCustomProperties.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\add-custom-properties.png
+
+ 59. AiObjectScaleRemoveOthers_After.png
+     -> ai-object-scale-remove-others-after.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\AiObjectScaleRemoveOthers_After.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ai-object-scale-remove-others-after.png
+
+ 60. AiObjectScaleRemoveOthers_Before.png
+     -> ai-object-scale-remove-others-before.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\AiObjectScaleRemoveOthers_Before.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ai-object-scale-remove-others-before.png
+
+ 61. AiObjectScaleRemoveOthers_ExampleBlock.png
+     -> ai-object-scale-remove-others-example-block.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\AiObjectScaleRemoveOthers_ExampleBlock.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ai-object-scale-remove-others-example-block.png
+
+ 62. AiObjectScaleRemoveOthers_ExampleBlockClean.png
+     -> ai-object-scale-remove-others-example-block-clean.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\AiObjectScaleRemoveOthers_ExampleBlockClean.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ai-object-scale-remove-others-example-block-clean.png
+
+ 63. AiObjectScaleRemoveOthers_ViewportScales.png
+     -> ai-object-scale-remove-others-viewport-scales.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\AiObjectScaleRemoveOthers_ViewportScales.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ai-object-scale-remove-others-viewport-scales.png
+
+ 64. AT-D-60.png
+     -> at-d-60.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\AT-D-60.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\at-d-60.png
+
+ 65. AT-D-61.png
+     -> at-d-61.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\AT-D-61.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\at-d-61.png
+
+ 66. CadSetup_Dialog.png
+     -> cad-setup-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\CadSetup_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\cad-setup-dialog.png
+
+ 67. CadSupportApp_ResourceBundles.png
+     -> cad-support-app-resource-bundles.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\CadSupportApp_ResourceBundles.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\cad-support-app-resource-bundles.png
+
+ 68. CadSupport_Sources.png
+     -> cad-support-sources.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\CadSupport_Sources.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\cad-support-sources.png
+
+ 69. CadSupport_Sources_Command.png
+     -> cad-support-sources-command.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\CadSupport_Sources_Command.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\cad-support-sources-command.png
+
+ 70. CadSupport_Sources_Taskbar.png
+     -> cad-support-sources-taskbar.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\CadSupport_Sources_Taskbar.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\cad-support-sources-taskbar.png
+
+ 71. CadSupport_SyncInProgress.png
+     -> cad-support-sync-in-progress.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\CadSupport_SyncInProgress.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\cad-support-sync-in-progress.png
+
+ 72. ChgTxt_Dialog.png
+     -> chg-txt-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ChgTxt_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\chg-txt-dialog.png
+
+ 73. ClipboardManagerSS.png
+     -> clipboard-manager-ss.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ClipboardManagerSS.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\clipboard-manager-ss.png
+
+ 74. CurrentFolderFavorite.png
+     -> current-folder-favorite.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\CurrentFolderFavorite.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\current-folder-favorite.png
+
+ 75. DstToXml.png
+     -> dst-to-xml.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DstToXml.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\dst-to-xml.png
+
+ 76. DwgLog_Settings.png
+     -> dwg-log-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DwgLog_Settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\dwg-log-settings.png
+
+ 77. DwgOpenTimer_Dialog.png
+     -> dwg-open-timer-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DwgOpenTimer_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\dwg-open-timer-dialog.png
+
+ 78. ExportAcadSettingsAuto_Dialog.png
+     -> export-acad-settings-auto-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExportAcadSettingsAuto_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\export-acad-settings-auto-dialog.png
+
+ 79. ImportAcadSettings_Dialog.png
+     -> import-acad-settings-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ImportAcadSettings_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\import-acad-settings-dialog.png
+
+ 80. LayerImportTools-DesignCenter.png
+     -> layer-import-tools-design-center.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\LayerImportTools-DesignCenter.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\layer-import-tools-design-center.png
+
+ 81. LayerImportTools-FileMenu.png
+     -> layer-import-tools-file-menu.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\LayerImportTools-FileMenu.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\layer-import-tools-file-menu.png
+
+ 82. LayerImportTools-LayerFiltersTab.png
+     -> layer-import-tools-layer-filters-tab.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\LayerImportTools-LayerFiltersTab.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\layer-import-tools-layer-filters-tab.png
+
+ 83. LayerImportTools-ManualFilterTab.png
+     -> layer-import-tools-manual-filter-tab.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\LayerImportTools-ManualFilterTab.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\layer-import-tools-manual-filter-tab.png
+
+ 84. LayerImportTools-Options.png
+     -> layer-import-tools-options.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\LayerImportTools-Options.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\layer-import-tools-options.png
+
+ 85. LayerImportTools-Preview.png
+     -> layer-import-tools-preview.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\LayerImportTools-Preview.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\layer-import-tools-preview.png
+
+ 86. LayerImportTools-SelectTab.png
+     -> layer-import-tools-select-tab.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\LayerImportTools-SelectTab.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\layer-import-tools-select-tab.png
+
+ 87. LayerImportTools-SourceFile.png
+     -> layer-import-tools-source-file.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\LayerImportTools-SourceFile.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\layer-import-tools-source-file.png
+
+ 88. LayoutsTextEdit_Dialog.png
+     -> layouts-text-edit-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\LayoutsTextEdit_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\layouts-text-edit-dialog.png
+
+ 89. PageSetupsSetLayouts_Dialog.png
+     -> page-setups-set-layouts-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\PageSetupsSetLayouts_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\page-setups-set-layouts-dialog.png
+
+ 90. PublishPushSupport_PushedSettings.png
+     -> publish-push-support-pushed-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\PublishPushSupport_PushedSettings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\publish-push-support-pushed-settings.png
+
+ 91. Reopen-ReadonlyDrawing.png
+     -> reopen-readonly-drawing.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\Reopen-ReadonlyDrawing.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\reopen-readonly-drawing.png
+
+ 92. Reopen-WriteDrawing.png
+     -> reopen-write-drawing.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\Reopen-WriteDrawing.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\reopen-write-drawing.png
+
+ 93. RoadGeom_2Arcs_Diagram.png
+     -> road-geom-2-arcs-diagram.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_2Arcs_Diagram.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-2-arcs-diagram.png
+
+ 94. RoadGeom_2Arcs_Palette.png
+     -> road-geom-2-arcs-palette.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_2Arcs_Palette.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-2-arcs-palette.png
+
+ 95. RoadGeom_3ArcsAsym_Palette.png
+     -> road-geom-3-arcs-asym-palette.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_3ArcsAsym_Palette.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-3-arcs-asym-palette.png
+
+ 96. RoadGeom_3ArcsSym_Palette.png
+     -> road-geom-3-arcs-sym-palette.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_3ArcsSym_Palette.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-3-arcs-sym-palette.png
+
+ 97. RoadGeom_3Arcs_Diagram.png
+     -> road-geom-3-arcs-diagram.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_3Arcs_Diagram.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-3-arcs-diagram.png
+
+ 98. RoadGeom_Arc_Palette.png
+     -> road-geom-arc-palette.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_Arc_Palette.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-arc-palette.png
+
+ 99. RoadGeom_Button_Help.png
+     -> road-geom-button-help.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_Button_Help.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-button-help.png
+
+100. RoadGeom_Button_Settings.png
+     -> road-geom-button-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_Button_Settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-button-settings.png
+
+101. RoadGeom_Settings.png
+     -> road-geom-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_Settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-settings.png
+
+102. RoadGeom_Taper_Diagram.png
+     -> road-geom-taper-diagram.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_Taper_Diagram.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-taper-diagram.png
+
+103. RoadGeom_Taper_Palette.png
+     -> road-geom-taper-palette.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_Taper_Palette.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-taper-palette.png
+
+104. RoadGeom_Taper_Setting.png
+     -> road-geom-taper-setting.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_Taper_Setting.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-taper-setting.png
+
+105. RoadGeom_TopBar_Palette.png
+     -> road-geom-top-bar-palette.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RoadGeom_TopBar_Palette.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\road-geom-top-bar-palette.png
+
+106. RotationByObject_Settings.png
+     -> rotation-by-object-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\RotationByObject_Settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\rotation-by-object-settings.png
+
+107. Selfintersect_Dialog.png
+     -> selfintersect-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\Selfintersect_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\selfintersect-dialog.png
+
+108. ShxManager_Dialog.png
+     -> shx-manager-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ShxManager_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\shx-manager-dialog.png
+
+109. ShxManager_DialogClean.png
+     -> shx-manager-dialog-clean.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ShxManager_DialogClean.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\shx-manager-dialog-clean.png
+
+110. SpeedSettings_Dialog.png
+     -> speed-settings-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\SpeedSettings_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\speed-settings-dialog.png
+
+111. SplineMinRad_Example.png
+     -> spline-min-rad-example.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\SplineMinRad_Example.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\spline-min-rad-example.png
+
+112. SplineMinRad_ResultHigh.png
+     -> spline-min-rad-result-high.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\SplineMinRad_ResultHigh.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\spline-min-rad-result-high.png
+
+113. SplineMinRad_ResultLow.png
+     -> spline-min-rad-result-low.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\SplineMinRad_ResultLow.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\spline-min-rad-result-low.png
+
+114. StripMText_Dialog.png
+     -> strip-mtext-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\StripMText_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\strip-mtext-dialog.png
+
+115. SysVarMonDefault_Dialog.png
+     -> sys-var-mon-default-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\SysVarMonDefault_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\sys-var-mon-default-dialog.png
+
+116. SysVarMonDefault_OnExitUpdater.png
+     -> sys-var-mon-default-on-exit-updater.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\SysVarMonDefault_OnExitUpdater.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\sys-var-mon-default-on-exit-updater.png
+
+117. TextCase_Right-Click.png
+     -> text-case-right-click.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\TextCase_Right-Click.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\text-case-right-click.png
+
+118. TextMatchProp_Dialog.png
+     -> text-match-prop-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\TextMatchProp_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\text-match-prop-dialog.png
+
+119. TextMod_Settings.png
+     -> text-mod-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\TextMod_Settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\text-mod-settings.png
+
+120. TextRotateToUcs_Right-Click.png
+     -> text-rotate-to-ucs-right-click.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\TextRotateToUcs_Right-Click.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\text-rotate-to-ucs-right-click.png
+
+121. TextRotateToView_Right-Click.png
+     -> text-rotate-to-view-right-click.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\TextRotateToView_Right-Click.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\text-rotate-to-view-right-click.png
+
+122. UI_Annotative.png
+     -> ui-annotative.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Annotative.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-annotative.png
+
+123. UI_Blocks.png
+     -> ui-blocks.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Blocks.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-blocks.png
+
+124. UI_Blocks_CTab.png
+     -> ui-blocks-ctab.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Blocks_CTab.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-blocks-ctab.png
+
+125. UI_Blocks_MultiBlock.png
+     -> ui-blocks-multi-block.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Blocks_MultiBlock.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-blocks-multi-block.png
+
+126. UI_CadToolkit1.png
+     -> ui-cad-toolkit1.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_CadToolkit1.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-cad-toolkit1.png
+
+127. UI_CadToolkit2.png
+     -> ui-cad-toolkit2.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_CadToolkit2.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-cad-toolkit2.png
+
+128. UI_Create.png
+     -> ui-create.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Create.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-create.png
+
+129. UI_Developer.png
+     -> ui-developer.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Developer.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-developer.png
+
+130. UI_Developer_Inspect.png
+     -> ui-developer-inspect.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Developer_Inspect.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-developer-inspect.png
+
+131. UI_Developer_List.png
+     -> ui-developer-list.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Developer_List.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-developer-list.png
+
+132. UI_DwgLog.png
+     -> ui-dwg-log.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_DwgLog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-dwg-log.png
+
+133. UI_Extra.png
+     -> ui-extra.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Extra.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-extra.png
+
+134. UI_Extra_AutoTURN.png
+     -> ui-extra-auto-turn.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Extra_AutoTURN.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-extra-auto-turn.png
+
+135. UI_Extra_DwgLog.png
+     -> ui-extra-dwg-log.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Extra_DwgLog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-extra-dwg-log.png
+
+136. UI_Inquiry.png
+     -> ui-inquiry.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Inquiry.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-inquiry.png
+
+137. UI_Inquiry_Google.png
+     -> ui-inquiry-google.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Inquiry_Google.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-inquiry-google.png
+
+138. UI_Layers.png
+     -> ui-layers.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Layers.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-layers.png
+
+139. UI_Layouts.png
+     -> ui-layouts.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Layouts.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-layouts.png
+
+140. UI_Layouts_ShowBoundary.png
+     -> ui-layouts-show-boundary.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Layouts_ShowBoundary.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-layouts-show-boundary.png
+
+141. UI_Manage.png
+     -> ui-manage.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Manage.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-manage.png
+
+142. UI_Manage_Automation.png
+     -> ui-manage-automation.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Manage_Automation.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-manage-automation.png
+
+143. UI_Manage_Developer.png
+     -> ui-manage-developer.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Manage_Developer.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-manage-developer.png
+
+144. UI_Modify.png
+     -> ui-modify.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Modify.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-modify.png
+
+145. UI_References.png
+     -> ui-references.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_References.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-references.png
+
+146. UI_Setup.png
+     -> ui-setup.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Setup.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-setup.png
+
+147. UI_SheetSet.png
+     -> ui-sheet-set.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_SheetSet.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-sheet-set.png
+
+148. UI_Support.png
+     -> ui-support.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Support.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-support.png
+
+149. UI_Support_Plugins.png
+     -> ui-support-plugins.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Support_Plugins.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-support-plugins.png
+
+150. UI_Text.png
+     -> ui-text.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Text.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-text.png
+
+151. UI_Text_CopyContents.png
+     -> ui-text-copy-contents.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Text_CopyContents.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-text-copy-contents.png
+
+152. UI_Text_MatchTextProp.png
+     -> ui-text-match-text-prop.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Text_MatchTextProp.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-text-match-text-prop.png
+
+153. UI_Text_ToView.png
+     -> ui-text-to-view.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Text_ToView.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-text-to-view.png
+
+154. UI_Transoft.png
+     -> ui-transoft.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_Transoft.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-transoft.png
+
+155. UI_View.png
+     -> ui-view.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\UI_View.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ui-view.png
+
+156. VariableChecker_Dialog.png
+     -> variable-checker-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\VariableChecker_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\variable-checker-dialog.png
+
+157. ViewportLinetypesScale_Dialog.png
+     -> viewport-linetypes-scale-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ViewportLinetypesScale_Dialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\viewport-linetypes-scale-dialog.png
+
+158. ViewportLinetypesScale_ExampleLinetypes.png
+     -> viewport-linetypes-scale-example-linetypes.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ViewportLinetypesScale_ExampleLinetypes.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\viewport-linetypes-scale-example-linetypes.png
+
+159. ViewportLinetypesScale_ExampleViewports.png
+     -> viewport-linetypes-scale-example-viewports.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ViewportLinetypesScale_ExampleViewports.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\viewport-linetypes-scale-example-viewports.png
+
+160. XrefDrawOrder.png
+     -> xref-draw-order.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\XrefDrawOrder.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\xref-draw-order.png
+
+161. XrefOffsetCommand_DefaultSettings.png
+     -> xref-offset-command-default-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\XrefOffsetCommand_DefaultSettings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\xref-offset-command-default-settings.png
+
+162. XrefOffsetSettings.png
+     -> xref-offset-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\XrefOffsetSettings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\xref-offset-settings.png
+
+163. XrefOffset_Command.png
+     -> xref-offset-command.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\XrefOffset_Command.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\xref-offset-command.png
+
+164. XrefOffset_Issue.png
+     -> xref-offset-issue.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\XrefOffset_Issue.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\xref-offset-issue.png
+
+165. BlockTags.png
+     -> block-tags.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\BlockTags.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\block-tags.png
+
+166. Commands.png
+     -> commands.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\Commands.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\commands.png
+
+167. FilesAdd.png
+     -> files-add.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\FilesAdd.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\files-add.png
+
+168. FilesRemove.png
+     -> files-remove.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\FilesRemove.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\files-remove.png
+
+169. FiltersBlocks.png
+     -> filters-blocks.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\FiltersBlocks.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\filters-blocks.png
+
+170. FiltersExampleLayer.png
+     -> filters-example-layer.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\FiltersExampleLayer.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\filters-example-layer.png
+
+171. FiltersGeneral.png
+     -> filters-general.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\FiltersGeneral.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\filters-general.png
+
+172. FiltersText.png
+     -> filters-text.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\FiltersText.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\filters-text.png
+
+173. LayerProperties.png
+     -> layer-properties.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\LayerProperties.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\layer-properties.png
+
+174. LayoutsAdd.png
+     -> layouts-add.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\LayoutsAdd.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\layouts-add.png
+
+175. LayoutsRemove.png
+     -> layouts-remove.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\LayoutsRemove.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\layouts-remove.png
+
+176. ListArea.png
+     -> list-area.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\ListArea.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\list-area.png
+
+177. ObjectProperties.png
+     -> object-properties.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\ObjectProperties.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\object-properties.png
+
+178. OutputLog.png
+     -> output-log.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\OutputLog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\output-log.png
+
+179. Settings.png
+     -> settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\Settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\settings.png
+
+180. SettingsDialog.png
+     -> settings-dialog.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\SettingsDialog.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\settings-dialog.png
+
+181. SettingsMiscellaneous.png
+     -> settings-miscellaneous.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\SettingsMiscellaneous.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\settings-miscellaneous.png
+
+182. Tabs.png
+     -> tabs.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\Tabs.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\DrawingProcessor\tabs.png
+
+183. Calender.png
+     -> calender.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\Calender.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\calender.png
+
+184. CellFormula.png
+     -> cell-formula.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\CellFormula.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\cell-formula.png
+
+185. ExcelSheetSetEditor.png
+     -> excel-sheet-set-editor.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\ExcelSheetSetEditor.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\excel-sheet-set-editor.png
+
+186. HighlightEmpty.png
+     -> highlight-empty.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\HighlightEmpty.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\highlight-empty.png
+
+187. LetterCase.png
+     -> letter-case.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\LetterCase.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\letter-case.png
+
+188. NonBreakingSpace.png
+     -> non-breaking-space.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\NonBreakingSpace.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\non-breaking-space.png
+
+189. OtherFunctions.png
+     -> other-functions.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\OtherFunctions.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\other-functions.png
+
+190. RCDATA_32_SSM.png
+     -> rcdata-32-ssm.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\RCDATA_32_SSM.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\rcdata-32-ssm.png
+
+191. RevisionEntry.png
+     -> revision-entry.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\RevisionEntry.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\revision-entry.png
+
+192. Revisions.png
+     -> revisions.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\Revisions.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\revisions.png
+
+193. SheetSetRibbonTab.png
+     -> sheet-set-ribbon-tab.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\SheetSetRibbonTab.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\sheet-set-ribbon-tab.png
+
+194. Subsets.png
+     -> subsets.png
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\Subsets.png
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\img\ExcelSheetSetEditor\subsets.png
+
+195. bgp_info_block_insert_layers.png
+     -> bgp-info-block-insert-layers.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp_info_block_insert_layers.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp-info-block-insert-layers.png
+
+196. bgp_info_block_insert_settings.png
+     -> bgp-info-block-insert-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp_info_block_insert_settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp-info-block-insert-settings.png
+
+197. bgp_info_zoom_arrows.png
+     -> bgp-info-zoom-arrows.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp_info_zoom_arrows.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp-info-zoom-arrows.png
+
+198. bgp_info_zoom_block_lot.png
+     -> bgp-info-zoom-block-lot.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp_info_zoom_block_lot.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp-info-zoom-block-lot.png
+
+199. bgp_info_zoom_config.png
+     -> bgp-info-zoom-config.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp_info_zoom_config.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp-info-zoom-config.png
+
+200. bgp_info_zoom_extents.png
+     -> bgp-info-zoom-extents.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp_info_zoom_extents.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp-info-zoom-extents.png
+
+201. bgp_info_zoom_pan_zoom.png
+     -> bgp-info-zoom-pan-zoom.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp_info_zoom_pan_zoom.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp-info-zoom-pan-zoom.png
+
+202. bgp_info_zoom_refresh.png
+     -> bgp-info-zoom-refresh.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp_info_zoom_refresh.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp-info-zoom-refresh.png
+
+203. bgp_info_zoom_window.png
+     -> bgp-info-zoom-window.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp_info_zoom_window.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp-info-zoom-window.png
+
+204. bgp_lot_cogo_points_settings.png
+     -> bgp-lot-cogo-points-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp_lot_cogo_points_settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\bgp-lot-cogo-points-settings.png
+
+205. ui_assemblies.png
+     -> ui-assemblies.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\ui_assemblies.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\ui-assemblies.png
+
+206. ui_bgp_tools.png
+     -> ui-bgp-tools.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\ui_bgp_tools.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\ui-bgp-tools.png
+
+207. ui_calgary_toolkit.png
+     -> ui-calgary-toolkit.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\ui_calgary_toolkit.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\ui-calgary-toolkit.png
+
+208. ui_design_center.png
+     -> ui-design-center.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\ui_design_center.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\ui-design-center.png
+
+209. ui_obsolete.png
+     -> ui-obsolete.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\ui_obsolete.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\ui-obsolete.png
+
+210. ulinkapp_calgary_source.png
+     -> ulinkapp-calgary-source.png
+     Path: C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\ulinkapp_calgary_source.png
+     ->    C:\Users\tkarapita\source\repos\dpt\calgarytoolkit\img\ulinkapp-calgary-source.png
+
+211. Custom_C3D_Reports.png
+     -> custom-c3-d-reports.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\Custom_C3D_Reports.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\custom-c3-d-reports.png
+
+212. import_subassemblies.png
+     -> import-subassemblies.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\import_subassemblies.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\import-subassemblies.png
+
+213. Plugins.png
+     -> plugins.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\Plugins.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\plugins.png
+
+214. ResourceBundles.png
+     -> resource-bundles.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\ResourceBundles.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\resource-bundles.png
+
+215. Settings.png
+     -> settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\Settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\settings.png
+
+216. StartMenu.png
+     -> start-menu.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\StartMenu.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\start-menu.png
+
+217. Taskbar.png
+     -> taskbar.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\Taskbar.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\taskbar.png
+
+218. Taskbar_MoreMenu.png
+     -> taskbar-more-menu.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\Taskbar_MoreMenu.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\taskbar-more-menu.png
+
+219. Taskbar_Plugins.png
+     -> taskbar-plugins.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\Taskbar_Plugins.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\taskbar-plugins.png
+
+220. Taskbar_ResourceBundles.png
+     -> taskbar-resource-bundles.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\Taskbar_ResourceBundles.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\taskbar-resource-bundles.png
+
+221. Taskbar_Right-click.png
+     -> taskbar-right-click.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\Taskbar_Right-click.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\taskbar-right-click.png
+
+222. Taskbar_SyncMenu.png
+     -> taskbar-sync-menu.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\Taskbar_SyncMenu.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\taskbar-sync-menu.png
+
+223. uLinkDocs.png
+     -> u-link-docs.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\uLinkDocs.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\u-link-docs.png
+
+224. whatsnew_mappeddrive_globalshortcut.png
+     -> whatsnew-mappeddrive-globalshortcut.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew_mappeddrive_globalshortcut.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew-mappeddrive-globalshortcut.png
+
+225. whatsnew_mappeddrive_moremenu.png
+     -> whatsnew-mappeddrive-moremenu.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew_mappeddrive_moremenu.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew-mappeddrive-moremenu.png
+
+226. whatsnew_review_folder_creator.png
+     -> whatsnew-review-folder-creator.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew_review_folder_creator.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew-review-folder-creator.png
+
+227. whatsnew_ui.png
+     -> whatsnew-ui.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew_ui.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew-ui.png
+
+228. whatsnew_ulinkdocs_hidetabs.png
+     -> whatsnew-ulinkdocs-hidetabs.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew_ulinkdocs_hidetabs.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew-ulinkdocs-hidetabs.png
+
+229. whatsnew_ulinkdocs_notifications.png
+     -> whatsnew-ulinkdocs-notifications.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew_ulinkdocs_notifications.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew-ulinkdocs-notifications.png
+
+230. whatsnew_ulinkdocs_pin.png
+     -> whatsnew-ulinkdocs-pin.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew_ulinkdocs_pin.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew-ulinkdocs-pin.png
+
+231. whatsnew_ulinkdocs_startmenu.png
+     -> whatsnew-ulinkdocs-startmenu.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew_ulinkdocs_startmenu.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew-ulinkdocs-startmenu.png
+
+232. whatsnew_ulinkdocs_tabs.png
+     -> whatsnew-ulinkdocs-tabs.png
+     Path: C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew_ulinkdocs_tabs.png
+     ->    C:\Users\tkarapita\source\repos\dpt\designsupport\img\whatsnew-ulinkdocs-tabs.png
+
+233. custom_c3d_reports.png
+     -> custom-c3d-reports.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\custom_c3d_reports.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\custom-c3d-reports.png
+
+234. import_subassemblies.png
+     -> import-subassemblies.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\import_subassemblies.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\import-subassemblies.png
+
+235. taskbar_cadmenu.png
+     -> taskbar-cadmenu.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\taskbar_cadmenu.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\taskbar-cadmenu.png
+
+236. taskbar_moremenu.png
+     -> taskbar-moremenu.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\taskbar_moremenu.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\taskbar-moremenu.png
+
+237. taskbar_resourcebundles.png
+     -> taskbar-resourcebundles.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\taskbar_resourcebundles.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\taskbar-resourcebundles.png
+
+238. taskbar_right-click.png
+     -> taskbar-right-click.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\taskbar_right-click.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\taskbar-right-click.png
+
+239. ulinkdocs_doc.png
+     -> ulinkdocs-doc.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\ulinkdocs_doc.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\ulinkdocs-doc.png
+
+240. ulinkdocs_main_window.png
+     -> ulinkdocs-main-window.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\ulinkdocs_main_window.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\ulinkdocs-main-window.png
+
+241. ulinkdocs_settings.png
+     -> ulinkdocs-settings.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\ulinkdocs_settings.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\ulinkdocs-settings.png
+
+242. ulinkdocs_tag_filters.png
+     -> ulinkdocs-tag-filters.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\ulinkdocs_tag_filters.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\ulinkdocs-tag-filters.png
+
+243. ulinkdoc_pin_icon_dark.png
+     -> ulinkdoc-pin-icon-dark.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\ulinkdoc_pin_icon_dark.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\ulinkdoc-pin-icon-dark.png
+
+244. ulinkdoc_pin_icon_light.png
+     -> ulinkdoc-pin-icon-light.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\ulinkdoc_pin_icon_light.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\ulinkdoc-pin-icon-light.png
+
+245. whatsnew_mappeddrive_globalshortcut.png
+     -> whatsnew-mappeddrive-globalshortcut.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew_mappeddrive_globalshortcut.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew-mappeddrive-globalshortcut.png
+
+246. whatsnew_mappeddrive_moremenu.png
+     -> whatsnew-mappeddrive-moremenu.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew_mappeddrive_moremenu.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew-mappeddrive-moremenu.png
+
+247. whatsnew_review_folder_creator.png
+     -> whatsnew-review-folder-creator.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew_review_folder_creator.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew-review-folder-creator.png
+
+248. whatsnew_ui.png
+     -> whatsnew-ui.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew_ui.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew-ui.png
+
+249. whatsnew_ulinkdocs_notifications.png
+     -> whatsnew-ulinkdocs-notifications.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew_ulinkdocs_notifications.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew-ulinkdocs-notifications.png
+
+250. whatsnew_ulinkdocs_pin.png
+     -> whatsnew-ulinkdocs-pin.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew_ulinkdocs_pin.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew-ulinkdocs-pin.png
+
+251. whatsnew_ulinkdocs_startmenu.png
+     -> whatsnew-ulinkdocs-startmenu.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew_ulinkdocs_startmenu.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew-ulinkdocs-startmenu.png
+
+252. whatsnew_ulinkdocs_tabs.png
+     -> whatsnew-ulinkdocs-tabs.png
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew_ulinkdocs_tabs.png
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\img\whatsnew-ulinkdocs-tabs.png
+
+253. search_dpt_example.png
+     -> search-dpt-example.png
+     Path: C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\search_dpt_example.png
+     ->    C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\search-dpt-example.png
+
+254. ui_design_center_links.png
+     -> ui-design-center-links.png
+     Path: C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\ui_design_center_links.png
+     ->    C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\ui-design-center-links.png
+
+255. ui_dpt_standards.png
+     -> ui-dpt-standards.png
+     Path: C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\ui_dpt_standards.png
+     ->    C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\ui-dpt-standards.png
+
+256. ui_layout_tools.png
+     -> ui-layout-tools.png
+     Path: C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\ui_layout_tools.png
+     ->    C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\ui-layout-tools.png
+
+257. ui_palettes.png
+     -> ui-palettes.png
+     Path: C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\ui_palettes.png
+     ->    C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\ui-palettes.png
+
+258. ui_palette_example.png
+     -> ui-palette-example.png
+     Path: C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\ui_palette_example.png
+     ->    C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\ui-palette-example.png
+
+259. ui_urban_systems_toolkit.png
+     -> ui-urban-systems-toolkit.png
+     Path: C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\ui_urban_systems_toolkit.png
+     ->    C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\ui-urban-systems-toolkit.png
+
+260. usl_logo_update_2020_after.png
+     -> usl-logo-update-2020-after.png
+     Path: C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\usl_logo_update_2020_after.png
+     ->    C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\usl-logo-update-2020-after.png
+
+261. usl_logo_update_2020_before.png
+     -> usl-logo-update-2020-before.png
+     Path: C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\usl_logo_update_2020_before.png
+     ->    C:\Users\tkarapita\source\repos\dpt\urbansystemstoolkit\img\usl-logo-update-2020-before.png
+
+262. GradeLabelTracker_Example.gif
+     -> grade-label-tracker-example.gif
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\media\GradeLabelTracker_Example.gif
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\media\grade-label-tracker-example.gif
+
+263. ProfileLabelOffset_Example.gif
+     -> profile-label-offset-example.gif
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\media\ProfileLabelOffset_Example.gif
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\media\profile-label-offset-example.gif
+
+264. RemoveTopElevation_Example.gif
+     -> remove-top-elevation-example.gif
+     Path: C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\media\RemoveTopElevation_Example.gif
+     ->    C:\Users\tkarapita\source\repos\dpt\c3dtoolkit\media\remove-top-elevation-example.gif
+
+265. CopyText.gif
+     -> copy-text.gif
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\media\CopyText.gif
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\media\copy-text.gif
+
+266. SwapText.gif
+     -> swap-text.gif
+     Path: C:\Users\tkarapita\source\repos\dpt\cadtoolkit\media\SwapText.gif
+     ->    C:\Users\tkarapita\source\repos\dpt\cadtoolkit\media\swap-text.gif
+
+267. ulinkdocs_doc_expand.gif
+     -> ulinkdocs-doc-expand.gif
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\media\ulinkdocs_doc_expand.gif
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\media\ulinkdocs-doc-expand.gif
+
+268. whatsnew_ulinkdocs_tabs.gif
+     -> whatsnew-ulinkdocs-tabs.gif
+     Path: C:\Users\tkarapita\source\repos\dpt\ulink\media\whatsnew_ulinkdocs_tabs.gif
+     ->    C:\Users\tkarapita\source\repos\dpt\ulink\media\whatsnew-ulinkdocs-tabs.gif
+
