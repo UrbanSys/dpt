@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0" xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="TaskPaneApp">
-  <Id>98a67a7c-00a2-4ca4-9632-a545eff3c183</Id>
+  <Id>98A67A7C-00A2-4CA4-9632-A545EFF3C183</Id>
   <Version>1.0.0.0</Version>
   <ProviderName>Urban Systems</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
