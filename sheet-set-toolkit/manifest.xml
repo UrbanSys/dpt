@@ -8,9 +8,9 @@
   <Description DefaultValue="Tools for editing AutoCAD Sheet Set data in Excel. Supports date insertion, text case conversion, subset isolation, revision management, and more."/>
   <IconUrl DefaultValue="https://urbansys.github.io/dpt/sheet-set-toolkit/assets/icon-32.png"/>
   <HighResolutionIconUrl DefaultValue="https://urbansys.github.io/dpt/sheet-set-toolkit/assets/icon-64.png"/>
-  <SupportUrl DefaultValue="https://urbanpulse.sharepoint.com/sites/pulse/connect-site/Teams/DPT/Wiki/Pages/Plug-ins/Excel%20Sheet%20Set%20Editor.aspx"/>
+  <SupportUrl DefaultValue="https://urbansys.github.io/dpt/sheet-set-toolkit/support.html"/>
   <AppDomains>
-    <AppDomain>https://www.urbansystems.ca</AppDomain>
+    <AppDomain>https://urbansys.github.io/dpt/sheet-set-toolkit</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook"/>
