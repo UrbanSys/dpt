@@ -1,0 +1,1 @@
+"undefined"!=typeof Office&&Office.onReady&&Office.onReady().then((()=>{console.log("[SheetSetToolkit] Dummy commands.js loaded (no command functions are implemented in this version).")})).catch((()=>{}));
