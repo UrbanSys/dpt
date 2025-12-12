@@ -1,0 +1,613 @@
+/* 
+ * Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT license.
+ * See LICENSE in the project root for license information.
+ */
+
+/* Color variables */
+:root {
+    /* Primary colors - Used for interactive elements, links, and focus states */
+    --color-primary: #0078d7; /* Primary blue: button borders on hover, focus outlines, link text */
+    --color-primary-hover: #005a9e; /* Darker blue: hover state for links and primary buttons */
+    
+    /* Background colors */
+    --color-background-white: #ffffff; /* White: modal content, function group containers, default backgrounds */
+    --color-background-ribbon: #faf9f8; /* Very light gray: ribbon-like color for group headers and function buttons (lighter for better contrast) */
+    --color-background-hover: #edebe9; /* Lighter gray: hover state for buttons and group headers */
+    --color-background-warning: #fff4ce; /* Light yellow: warning message background (revision warnings) */
+    --color-background-modal-overlay: rgba(0, 0, 0, 0.5); /* Semi-transparent black: modal backdrop overlay */
+    
+    /* Text colors */
+    --color-text-primary: #201f1e; /* Very dark gray: primary text (button labels, group titles, main content) - darker for better contrast */
+    --color-text-secondary: #605e5c; /* Medium gray: secondary text (group descriptions, toggle arrows) */
+    --color-text-info: #666; /* Medium gray: informational text (modal info sections) */
+    
+    /* Border colors */
+    --color-border-default: #d1d1d1; /* Light gray: default borders (buttons, function groups) */
+    --color-border-light: #ccc; /* Lighter gray: subtle borders (sheet selection tree) */
+    --color-border-primary: #0078d7; /* Primary blue: interactive borders (button hover, focus outlines) */
+    --color-border-warning: #ffaa00; /* Orange: warning borders (revision warning boxes) */
+}
+
+ html,
+ body {
+     width: 100%;
+     height: 100%;
+     margin: 0;
+     padding: 0;
+ }
+ 
+ ul {
+     margin: 0;
+     padding: 0;
+ }
+ 
+ .ms-welcome__header {
+    padding: 20px;
+    padding-bottom: 30px;
+    padding-top: 100px;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    align-items: center;
+ }
+
+ .ms-welcome__main {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-flex: 1 0 0;
+    flex: 1 0 0;
+    padding: 10px 20px;
+ }
+ 
+ .ms-welcome__main > h2 {
+     width: 100%;
+     text-align: center;
+ }
+ 
+ .ms-welcome__features {
+     list-style-type: none;
+     margin-top: 20px;
+ }
+ 
+ .ms-welcome__features.ms-List .ms-ListItem {
+     padding-bottom: 20px;
+     display: -webkit-flex;
+     display: flex;
+ }
+ 
+ .ms-welcome__features.ms-List .ms-ListItem > .ms-Icon {
+     margin-right: 10px;
+ }
+ 
+ .ms-welcome__action.ms-Button--hero {
+     margin-top: 30px;
+ }
+ 
+.ms-Button.ms-Button--hero .ms-Button-label {
+  color: var(--color-primary);
+}
+
+.ms-Button.ms-Button--hero:hover .ms-Button-label,
+.ms-Button.ms-Button--hero:focus .ms-Button-label{
+  color: var(--color-primary-hover);
+  cursor: pointer;
+}
+
+b {
+    font-weight: bold;
+}
+
+/* Toolkit button styles */
+.toolkit-button {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    background-color: var(--color-background-ribbon);
+    border: 1px solid var(--color-border-default);
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 14px;
+    text-align: left;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+.toolkit-button:last-child {
+    margin-bottom: 0;
+}
+
+.toolkit-button:hover {
+    background-color: var(--color-background-hover);
+    border-color: var(--color-border-primary);
+}
+
+.toolkit-button:active {
+    background-color: var(--color-background-hover);
+}
+
+.toolkit-button:focus {
+    outline: 2px solid var(--color-border-primary);
+    outline-offset: 2px;
+}
+
+.toolkit-button .button-icon {
+    margin-right: 10px;
+    width: 32px;
+    height: 32px;
+    flex-shrink: 0;
+    object-fit: contain;
+}
+
+.toolkit-button .button-text-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.toolkit-button .button-label {
+    color: var(--color-text-primary);
+    font-weight: 600;
+}
+
+.toolkit-button .button-description {
+    color: var(--color-text-secondary);
+    font-size: 12px;
+    font-weight: 400;
+    margin-top: 2px;
+}
+
+/* Main layout */
+#sideload-msg {
+    padding: 20px;
+    text-align: center;
+}
+
+#app-body {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+#app-body > h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+/* Modal overlay */
+.modal-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: var(--color-background-modal-overlay);
+    z-index: 1000;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal-overlay.show {
+    display: flex;
+}
+
+.modal-overlay.revision-modal {
+    z-index: 1001;
+}
+
+/* Modal content */
+.modal-content {
+    background: var(--color-background-white);
+    padding: 20px;
+    border-radius: 4px;
+    max-width: 600px;
+    max-height: 80vh;
+    overflow-y: auto;
+    margin: 20px;
+}
+
+.modal-content.revision-modal-content {
+    max-width: 700px;
+}
+
+.modal-content h3 {
+    margin-top: 0;
+}
+
+/* Modal sections */
+.modal-section {
+    margin-bottom: 15px;
+}
+
+.modal-section.info {
+    color: var(--color-text-info);
+}
+
+.modal-footer {
+    display: flex;
+    gap: 10px;
+    margin-top: 15px;
+    justify-content: flex-end;
+}
+
+/* Modal buttons */
+.modal-button {
+    padding: 6px 12px;
+}
+
+.modal-button + .modal-button {
+    margin-right: 10px;
+}
+
+.modal-action-button {
+    padding: 8px 16px;
+}
+
+/* Sheet selection tree */
+#sheet-selection-tree {
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid var(--color-border-light);
+    padding: 10px;
+}
+
+/* Revision warning */
+#revision-warning {
+    display: none;
+    padding: 10px;
+    background-color: var(--color-background-warning);
+    border: 1px solid var(--color-border-warning);
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+
+#revision-warning.show {
+    display: block;
+}
+
+/* Function groups (expanders) */
+.function-group {
+    margin-bottom: 10px;
+    border: 1px solid var(--color-border-default);
+    border-radius: 2px;
+    background-color: var(--color-background-white);
+}
+
+.function-group-header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 10px 10px;
+    background-color: var(--color-background-ribbon);
+    border: none;
+    border-bottom: 1px solid var(--color-border-default);
+    cursor: pointer;
+    text-align: left;
+    font-size: 14px;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.function-group-header:hover {
+    background-color: var(--color-background-hover);
+}
+
+.function-group-header:focus {
+    outline: 2px solid var(--color-border-primary);
+    outline-offset: -2px;
+}
+
+.function-group-header[aria-expanded="false"] .group-toggle {
+    transform: rotate(-90deg);
+}
+
+.function-group-header[aria-expanded="false"] + .function-group-content {
+    display: none;
+}
+
+.group-toggle {
+    margin-right: 8px;
+    color: var(--color-text-secondary);
+    font-size: 10px;
+    transition: transform 0.2s;
+    flex-shrink: 0;
+}
+
+.group-icon {
+    width: 32px;
+    height: 32px;
+    margin-right: 10px;
+    flex-shrink: 0;
+    object-fit: contain;
+}
+
+.group-header-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.group-title {
+    font-weight: 600;
+    color: var(--color-text-primary);
+    margin-bottom: 2px;
+    flex-shrink: 0;
+}
+
+.group-description {
+    color: var(--color-text-secondary);
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.function-group-content {
+    padding: 10px;
+    display: block;
+}
+
+.function-group[aria-expanded="false"] .function-group-content {
+    display: none;
+}
+
+.function-group-content .toolkit-button {
+    margin-bottom: 8px;
+}
+
+.function-group-content .toolkit-button:last-child {
+    margin-bottom: 0;
+}
+
+.date-picker-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    background-color: var(--color-background-white);
+}
+
+.date-picker-label {
+    margin-right: 10px;
+    color: var(--color-text-primary);
+    font-weight: 500;
+    font-size: 13px;
+    flex-shrink: 0;
+}
+
+.date-picker-input {
+    flex: 1;
+    padding: 6px 8px;
+    border: 1px solid var(--color-border-default);
+    border-radius: 4px;
+    font-size: 13px;
+    color: var(--color-text-primary);
+    background-color: var(--color-background-white);
+}
+
+.date-picker-input:focus {
+    outline: 2px solid var(--color-border-primary);
+    outline-offset: -2px;
+    border-color: var(--color-border-primary);
+}
+
+/* Find and Replace styles */
+.find-replace-input-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.find-replace-label {
+    margin-bottom: 5px;
+    color: var(--color-text-primary);
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.find-replace-input-with-button {
+    display: flex;
+    gap: 8px;
+    align-items: stretch;
+}
+
+.find-replace-input {
+    flex: 1;
+    padding: 6px 8px;
+    border: 1px solid var(--color-border-default);
+    border-radius: 4px;
+    font-size: 13px;
+    color: var(--color-text-primary);
+    background-color: var(--color-background-white);
+    box-sizing: border-box;
+}
+
+.find-replace-input:focus {
+    outline: 2px solid var(--color-border-primary);
+    outline-offset: -2px;
+    border-color: var(--color-border-primary);
+}
+
+.find-replace-get-button {
+    padding: 4px;
+    border: 1px solid var(--color-border-default);
+    border-radius: 4px;
+    background-color: var(--color-background-ribbon);
+    cursor: pointer;
+    transition: background-color 0.2s, border-color 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 32px;
+    height: 32px;
+}
+
+.find-replace-get-button-icon {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+
+
+.find-replace-get-button:focus {
+    outline: 2px solid var(--color-border-primary);
+    outline-offset: 2px;
+}
+
+.find-replace-get-button:active:not(:disabled) {
+    background-color: var(--color-background-hover);
+}
+
+.find-replace-get-button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    background-color: var(--color-background-ribbon);
+}
+
+.find-replace-get-button:hover:not(:disabled) {
+    background-color: var(--color-background-hover);
+    border-color: var(--color-border-primary);
+}
+
+.find-replace-buttons-container {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.find-replace-button {
+    flex: 1;
+    padding: 8px 16px;
+    border: 1px solid var(--color-border-default);
+    border-radius: 4px;
+    background-color: var(--color-background-ribbon);
+    color: var(--color-text-primary);
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+.find-replace-button:hover:not(:disabled) {
+    background-color: var(--color-background-hover);
+    border-color: var(--color-border-primary);
+}
+
+.find-replace-button:focus {
+    outline: 2px solid var(--color-border-primary);
+    outline-offset: 2px;
+}
+
+.find-replace-button:active:not(:disabled) {
+    background-color: var(--color-background-hover);
+}
+
+.find-replace-button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    background-color: var(--color-background-ribbon);
+}
+
+.find-replace-results {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: var(--color-background-ribbon);
+    border: 1px solid var(--color-border-default);
+    border-radius: 4px;
+}
+
+.find-replace-results-hidden {
+    display: none;
+}
+
+.find-replace-results-header {
+    font-weight: 600;
+    color: var(--color-text-primary);
+    margin-bottom: 8px;
+    font-size: 13px;
+}
+
+.find-replace-results-list {
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.find-replace-row-group {
+    margin-bottom: 12px;
+    border: 1px solid var(--color-border-light);
+    border-radius: 4px;
+    background-color: var(--color-background-white);
+}
+
+.find-replace-row-header {
+    display: flex;
+    align-items: center;
+    padding: 8px 10px;
+    background-color: var(--color-background-ribbon);
+    border-bottom: 1px solid var(--color-border-light);
+    cursor: pointer;
+    user-select: none;
+}
+
+.find-replace-row-header:hover {
+    background-color: var(--color-background-hover);
+}
+
+.find-replace-toggle-indicator {
+    margin-right: 6px;
+    color: var(--color-text-secondary);
+    font-size: 10px;
+    width: 12px;
+    display: inline-block;
+    text-align: center;
+    transition: transform 0.2s;
+}
+
+.find-replace-row-checkbox {
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.find-replace-row-checkbox:hover {
+    cursor: pointer;
+}
+
+.find-replace-row-header-label {
+    font-weight: 600;
+    color: var(--color-text-primary);
+    font-size: 13px;
+    cursor: pointer;
+    flex: 1;
+}
+
+.find-replace-row-cells {
+    padding: 4px 8px;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.find-replace-row-cells-collapsed {
+    max-height: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    overflow: hidden;
+}
+
+.find-replace-result-item {
+    padding: 4px 8px;
+    padding-left: 28px;
+    color: var(--color-text-primary);
+    font-size: 12px;
+    border-bottom: 1px solid var(--color-border-light);
+}
+
+.find-replace-result-item:last-child {
+    border-bottom: none;
+}
